@@ -1,4 +1,5 @@
 # hello-github
-���߂�ڂ������Ȃ���������
+あめんぼあかいなあいうえお
 Hi!
 new branch
+リポジトリで
